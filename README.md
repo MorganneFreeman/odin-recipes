@@ -1,0 +1,1 @@
+This project was designed by 'The Odin Project', and it has been established to help users who are new to HTML, like myself, become more familiar with some of the basic commands. I plan to complete this project and self-reflect at the end.
